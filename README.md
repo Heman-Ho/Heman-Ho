@@ -2,7 +2,6 @@
 
 🎓 **Second-year Computer Science student at Simon Fraser University**  
 💻 Passionate about **software development**, **machine learning**, and **human-centered design**.  
-🚀 Currently working on projects that combine **React**, **Firebase**, and **AI tools** to make meaningful user experiences.
 
 ---
 
