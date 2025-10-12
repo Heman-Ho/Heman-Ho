@@ -22,9 +22,11 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Heman-Ho&theme=tokyonight&border_radius=10)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Heman-Ho&theme=tokyo-night)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=MemoryHub&theme=tokyonight)](https://github.com/HemanHo/MemoryHub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=FitPal&theme=tokyonight)](https://github.com/artinSha/SpeakFastApp-Frontend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=MemoryHub&theme=tokyonight)](https://github.com/Heman-Ho/MemoryHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=SpeakFast&theme=tokyonight)](https://github.com/artinSha/SpeakFastApp-Frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=leetcode-llm-tutor&theme=tokyonight)](https://github.com/Heman-Ho/leetcode-llm-tutor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo&theme=tokyonight)](https=Treasure-Game://github.com/Heman-Ho/Treasure-Game)
 
 
 ## 📫 Connect with Me
