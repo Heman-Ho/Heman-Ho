@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 
-![Heman's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemanHo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemanHo&layout=compact&theme=tokyonight)
+![Heman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heman-Ho&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heman-Ho&layout=compact&theme=tokyonight)
 
 ---
 
