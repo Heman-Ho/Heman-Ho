@@ -27,6 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artinSha&repo=SpeakFastApp-Frontend&theme=tokyonight)](https://github.com/artinSha/SpeakFastApp-Frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=leetcode-llm-tutor&theme=tokyonight)](https://github.com/Heman-Ho/leetcode-llm-tutor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=Treasure-Game&theme=tokyonight)](https://github.com/Heman-Ho/Treasure-Game)
+[![Library SQL](https://github-readme-stats.vercel.app/api/pin/?username=f4ncy1zach&repo=CMPT354-mini-project&theme=tokyonight)](https://github.com/f4ncy1zach/CMPT354-mini-project)
 
 
 ## 📫 Connect with Me
