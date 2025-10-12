@@ -21,14 +21,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Heman-Ho&theme=tokyonight&border_radius=10)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Heman-Ho&theme=tokyo-night)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=MemoryHub&theme=tokyonight)](https://github.com/HemanHo/MemoryHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=FitPal&theme=tokyonight)](https://github.com/artinSha/SpeakFastApp-Frontend)
 
-## 📊 GitHub Stats
-
-![Heman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heman-Ho&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heman-Ho&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
