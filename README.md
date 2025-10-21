@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Heman Ho
 
-🎓 **Third-year Computer Science student at Simon Fraser University**  
-💻 Passionate about **software development**, **game design**, **machine learning**, and **human-centered design**.  
+**Third-year Computer Science student at Simon Fraser University**  
+Passionate about **software development**, **game design**, **machine learning**, and **human-centered design**.  
 
 ---
 
