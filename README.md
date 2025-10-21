@@ -1,8 +1,12 @@
-# Hey there, I'm Heman Ho
+# Hi, I'm Heman Ho
 
 **Third-year Computer Science student at Simon Fraser University**  
-Passionate about **software development**, **game design**, **machine learning**, and **human-centered design**.  
 
+### Currently Learning: 
+- Transformer architectures (attention mechanisms, GPT-style models)
+- Large Language Models (LLMs) and natural language processing
+- AI/ML workflows and optimizing neural networks
+- Cloud deployment with AWS
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=MemoryHub&theme=tokyonight)](https://github.com/Heman-Ho/MemoryHub)
