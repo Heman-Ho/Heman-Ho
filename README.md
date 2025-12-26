@@ -5,7 +5,6 @@
 ### Currently Learning: 
 - Transformer architectures (attention mechanisms, GPT-style models)
 - Large Language Models (LLMs) and natural language processing
-- AI/ML workflows and optimizing neural networks
 - Cloud deployment with AWS
 ---
 
