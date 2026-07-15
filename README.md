@@ -1,21 +1,19 @@
 # Hi, I'm Heman Ho
 
-**Third-year Computer Science student at Simon Fraser University**  
+**Computer Science student at Simon Fraser University**  
 
-### Currently Learning: 
-- Transformer architectures (attention mechanisms, GPT-style models)
-- Large Language Models (LLMs) and natural language processing
-- Cloud deployment with AWS
+### About Me
+* AWS Certified Solutions Architect – Associate
+* Experienced in Cloud DevOps, infrastructure automation, and containerization
+* Interested in cloud computing, distributed systems, and machine learning
+
+### Currently Learning
+* Transformer architectures and Large Language Models (LLMs)
+* Advanced Kubernetes and cloud-native infrastructure patterns
+
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=MemoryHub&theme=tokyonight)](https://github.com/Heman-Ho/MemoryHub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artinSha&repo=SpeakFastApp-Frontend&theme=tokyonight)](https://github.com/artinSha/SpeakFastApp-Frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=leetcode-llm-tutor&theme=tokyonight)](https://github.com/Heman-Ho/leetcode-llm-tutor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heman-Ho&repo=Housing-Price-Prediction&theme=tokyonight)](https://github.com/Heman-Ho/Housing-Price-Prediction)
-![GitHub Streak](https://streak-stats.demolab.com?user=Heman-Ho&theme=tokyonight&border_radius=10)
-
-
-### Languages
+### Languages & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,9 +22,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HemanHo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heman-ho-06168a306)
-
----
-
