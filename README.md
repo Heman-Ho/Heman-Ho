@@ -5,10 +5,9 @@
 ### About Me
 * AWS Certified Solutions Architect – Associate
 * Experienced in Cloud DevOps, infrastructure automation, and containerization
-* Interested in cloud computing, distributed systems, and machine learning
+* Interested in cloud computing, software engineering, and distributed systems
 
 ### Currently Learning
-* Transformer architectures and Large Language Models (LLMs)
 * Advanced Kubernetes and cloud-native infrastructure patterns
 
 ---
