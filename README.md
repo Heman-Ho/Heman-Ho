@@ -26,6 +26,8 @@
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-FF7E00?style=for-the-badge&logo=argocd&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Heman-Ho&theme=tokyonight&border_radius=10)
+
 ---
 
 ### Currently Learning
