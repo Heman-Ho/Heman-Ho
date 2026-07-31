@@ -2,7 +2,7 @@
 
 **Computer Science student at Simon Fraser University**  
 
-* Software Engineer / Cloud DevOps Engineer
+* Software Engineer / Cloud Engineer
 * AWS Certified Solutions Architect – Associate
 
 ---
